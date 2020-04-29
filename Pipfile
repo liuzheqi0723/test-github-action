@@ -9,6 +9,7 @@ verify_ssl = true
 uvicorn = "*"
 pipenv = "*"
 fastapi = {extras = ["all"],version = "*"}
+pytest = "*"
 
 [requires]
 python_version = "3.6"
